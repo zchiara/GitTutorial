@@ -1,0 +1,3 @@
+# Cos'è Git?
+Git è un VCS (version control system) ovvero un software che memorizza tutti i cambiamenti ad un file, o ad un set di file, nel tempo.
+E' possibile utilizzarlo con ogni tipo di file e permette di tener traccia dei cambiamenti che vengono effettuati durante lo sviluppo di un progetto di qualsiasi dimensione e settore: che sia un progetto di grafica, lo sviluppo di un software o la scrittura di un libro; anche questo tutorial è scritto tenendo traccia dello sviluppo mediante git.
