@@ -11,7 +11,11 @@ Mi occuperò di tradurlo e riassumerlo nel modo che ritengo più utile alla comp
 
 ##Nella speranza che possa essere utile a qualcuno, buona lettura.
 
-                                      *Francesco Clemente*
+*Francesco Clemente*
+
+
+
+
 
 **N.B. Questa è la versione iniziale, sarà mia premura correggere l'italiano una volta finito il tutto**
 
