@@ -10,3 +10,5 @@ Farò sempre riferimento al materiale trovato su https://www.git-scm.com .
 Mi occuperò di tradurlo e riassumerlo nel modo che ritengo più utile alla comprensione.
 
 Nella speranza che possa essere utile a qualcuno, buona lettura.
+
+**N.B. Questa è la versione iniziale, sarà mia premura correggere l'italiano una volta finito il tutto**
