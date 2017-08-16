@@ -12,3 +12,7 @@ Mi occuperò di tradurlo e riassumerlo nel modo che ritengo più utile alla comp
 Nella speranza che possa essere utile a qualcuno, buona lettura.
 
 **N.B. Questa è la versione iniziale, sarà mia premura correggere l'italiano una volta finito il tutto**
+
+Il materiale è redistribuito a seguito di traduzione e modifiche sotto licenza [Creative Commons - Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Unported (CC BY-NC-SA 3.0)][Licenza]
+
+[Licenza] : https://creativecommons.org/licenses/by-nc-sa/3.0/deed.it/ "Creative Commons - Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Unported (CC BY-NC-SA 3.0)"
