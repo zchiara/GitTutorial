@@ -5,5 +5,8 @@ Dopo settimane di ricerche online, ho realizzato che, a mio avviso, non esiste u
 
 Ho deciso quindi di sfruttare un po' del mio tempo libero per scrivere questo tutorial man mano che imparerò anche io le nuove features.
 
-Farò sempre riferimento al materiale trovato su https://www.git-scm.com
+Farò sempre riferimento al materiale trovato su https://www.git-scm.com .
+
 Mi occuperò di tradurlo e riassumerlo nel modo che ritengo più utile alla comprensione.
+
+Nella speranza che possa essere utile a qualcuno, buona lettura.
