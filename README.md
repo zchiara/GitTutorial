@@ -41,5 +41,3 @@ Il materiale è redistribuito sotto licenza [Creative Commons - Attribuzione - N
 [cap4]: https://github.com/FraClem/GitTutorial/blob/master/4.%20Git%20sul%20server.md
 [cap5]: https://github.com/FraClem/GitTutorial/blob/master/5.%20Git%20distribuito.md
 [cap6]: https://github.com/FraClem/GitTutorial/blob/master/6.%20GitHub.md
-
-
