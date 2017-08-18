@@ -20,7 +20,7 @@ Mi occuperò di tradurlo e riassumerlo nel modo che ritengo più utile per la co
 
 Il materiale è distribuito sotto licenza [Creative Commons - Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Unported (CC BY-NC-SA 3.0)][licenza]
 
-![Licenza CC BY-NC-SA 3.0](license.png "Licenza CC BY-NC-SA 3.0")
+![Licenza CC BY-NC-SA 3.0](img/license.png "Licenza CC BY-NC-SA 3.0")
 
 [licenza]: https://creativecommons.org/licenses/by-nc-sa/3.0/
 [book]: https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430218339&linkCode=as2&tag=git-sfconservancy-20

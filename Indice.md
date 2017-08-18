@@ -55,7 +55,7 @@
 
 Il materiale è distribuito sotto licenza [Creative Commons - Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Unported (CC BY-NC-SA 3.0)][licenza]
 
-![Licenza CC BY-NC-SA 3.0](license.png "Licenza CC BY-NC-SA 3.0")
+![Licenza CC BY-NC-SA 3.0](img/license.png "Licenza CC BY-NC-SA 3.0")
 
 [licenza]: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
