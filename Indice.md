@@ -6,11 +6,11 @@
     
     1.2 I sistemi di controllo versione
     
-        * Controllo versione locale
+    - Controllo versione locale
         
-        * Controllo versione centralizzato
+    - Controllo versione centralizzato
         
-        * Controllo versione distribuito
+    - Controllo versione distribuito
     
     1.3 Le basi di Git
         
