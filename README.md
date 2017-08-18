@@ -37,9 +37,9 @@ Il materiale è redistribuito sotto licenza [Creative Commons - Attribuzione - N
 
 [cap1]: https://github.com/FraClem/GitTutorial/blob/master/1.%20Per%20iniziare.md
 [cap2]: https://github.com/FraClem/GitTutorial/blob/master/2.%20Le%20basi%20di%20Git.md
-[cap3]: https://github.com/FraClem/GitTutorial/blob/master/3.%20Branching
-[cap4]: https://github.com/FraClem/GitTutorial/blob/master/4.%20Git%20sul%20server
-[cap5]: https://github.com/FraClem/GitTutorial/blob/master/5.%20Git%20distribuito
-[cap6]: https://github.com/FraClem/GitTutorial/blob/master/6.%20GitHub
+[cap3]: https://github.com/FraClem/GitTutorial/blob/master/3.%20Branching.md
+[cap4]: https://github.com/FraClem/GitTutorial/blob/master/4.%20Git%20sul%20server.md
+[cap5]: https://github.com/FraClem/GitTutorial/blob/master/5.%20Git%20distribuito.md
+[cap6]: https://github.com/FraClem/GitTutorial/blob/master/6.%20GitHub.md
 
 
