@@ -1,6 +1,5 @@
 # Manuale di Git
-
-Il mio manuale per Git, passo passo.
+## Il mio manuale per Git, passo passo.
 
 Dopo settimane di ricerche online, ho realizzato che, a mio avviso, non esiste un tutorial/manuale in italiano per Git ben fatto e che permetta davvero di capire come funziona questo fantastico strumento.
 
