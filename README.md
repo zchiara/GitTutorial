@@ -23,3 +23,13 @@ Il materiale è redistribuito sotto licenza [Creative Commons - Attribuzione - N
 
 [licenza]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.it/
 [book]: https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430218339&linkCode=as2&tag=git-sfconservancy-20
+
+
+---
+
+## Indice
+1. [Per iniziare][cap1]
+2. [Le basi di Git][cap2]
+
+[cap1]: https://github.com/FraClem/GitTutorial/blob/master/1.%20Per%20iniziare.md
+[cap2]: https://github.com/FraClem/GitTutorial/blob/master/2.%20Le%20basi%20di%20Git.md
