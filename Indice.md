@@ -39,6 +39,19 @@
     1.7 Ricevere aiuto
 
 2. [Le basi di Git][cap2] 
+    
+    2.1 Creare un repository
+    
+    - 2.1.1 Inizializzare una repository in una cartella esistente
+    
+    - 2.1.2 Clonare una repository esistente
+    
+    2.2 Memorizzare cambiamenti in un repository
+    
+    - 2.2.1 Controllare lo stato dei file
+    
+    - 2.2.2 Tracciare nuovi file
+
 3. [Branching][cap3] 
 4. [Git sul server][cap4]
 5. [Git distribuito][cap5]
