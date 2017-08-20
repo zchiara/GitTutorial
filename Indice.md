@@ -52,6 +52,18 @@
     
     - 2.2.2 Tracciare nuovi file
 
+    - 2.2.3 File modificati
+    
+    - 2.2.4 Ignorare file
+
+    - 2.2.5 Differenze tra i file nella staging area e non nella staging area
+
+    - 2.2.6 Effettuare un commit
+
+    - 2.2.7 Rimuovere un file
+
+    - 2.2.8 Rinominare un file
+
 3. [Branching][cap3] 
 4. [Git sul server][cap4]
 5. [Git distribuito][cap5]
