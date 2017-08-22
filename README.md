@@ -42,3 +42,9 @@ Il materiale è distribuito sotto licenza [Creative Commons - Attribuzione - Non
 [cap4]: https://github.com/FraClem/GitTutorial/blob/master/4.%20Git%20sul%20server.md
 [cap5]: https://github.com/FraClem/GitTutorial/blob/master/5.%20Git%20distribuito.md
 [cap6]: https://github.com/FraClem/GitTutorial/blob/master/6.%20GitHub.md
+
+---
+
+Un ringraziamento anche a **Vim** che mi sta permettendo di scrivere questo manuale.
+
+Usate **Vim**, il miglior editor di testo al mondo.
